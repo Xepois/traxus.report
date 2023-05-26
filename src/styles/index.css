@@ -8,18 +8,18 @@ body {
 }
 
 @font-face {
-    font-family: 'khInterference';
-    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Regular.woff2')
+    font-family: "khInterference";
+    src: url("../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Regular.woff2")
 }
 
 @font-face {
-    font-family: 'khInterference';
-    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Bold.woff2')
+    font-family: "khInterference";
+    src: url("../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Bold.woff2")
 }
 
 @font-face {
-    font-family: 'khInterference';
-    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Light.woff2')
+    font-family: "khInterference";
+    src: url("../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Light.woff2")
 }
 
 .title {
