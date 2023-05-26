@@ -4,10 +4,38 @@ body {
     overflow-y: hidden;
     height: 100vh;
     user-select: none;
+    font-family: khInterference;
+}
+
+@font-face {
+    font-family: 'khInterference';
+    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Regular.woff2')
+}
+
+@font-face {
+    font-family: 'khInterference';
+    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Bold.woff2')
+}
+
+@font-face {
+    font-family: 'khInterference';
+    src: url('../fonts/KHFont/WOFF2/KHInterferenceTRIAL-Light.woff2')
+}
+
+.title {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+.title #bold {
+    font-weight:bold;
 }
 
 h2 {
-    font-family: khBold;
+    font-family: khInterference;
+    font-weight: normal;
 }
 
 p {
